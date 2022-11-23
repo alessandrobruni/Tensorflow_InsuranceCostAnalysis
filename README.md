@@ -1,6 +1,6 @@
 # tensorflow_InsuranceCostAnalysis
-##Analyzing medical
-###Insurance Forecast by using Neural Network
+## Analyzing medical
+### Insurance Forecast by using Neural Network
 not using linear regression but NN
 This medical cost dataset is available from Kaggle https://www.kaggle.com/datasets/mirichoi0218/insurance https://github.com/stedy/Machine-Learning-with-R-datasets This the url: https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv
 
